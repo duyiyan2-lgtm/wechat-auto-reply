@@ -1,0 +1,6 @@
+pywechat127>=1.9.8
+PyYAML>=6.0
+Pillow>=10.0
+numpy>=1.24
+winocr>=0.0.15
+pyautogui>=0.9.54
